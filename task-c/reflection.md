@@ -21,7 +21,7 @@ Consider: What patterns did you observe in the SMAP data? How might those patter
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+Completing Tasks A and B helped me understand how data exploration connects to anomaly detection. In the SMAP data, I noticed that the channels did not all behave the same and that some values had different ranges and distributions. These differences could make anomaly detection more difficult because unusual behavior in one channel may be normal in another. An autoencoder-based model would need to learn these normal patterns first so it can recognize when new data behaves differently from what is expected.
 
 ---
 
@@ -33,7 +33,7 @@ Be honest. There are no wrong answers — this helps us plan the onboarding sche
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+I still have areas to improve in Python, statistics, and machine learning. Translating the R analysis into Python showed me that I need more practice with pandas, grouping data, and understanding Python syntax. I also want to become more comfortable interpreting statistical results without relying heavily on examples. My machine learning background is still developing, especially with concepts such as autoencoders and anomaly detection. I plan to improve by practicing Python regularly, reviewing statistical concepts, and working through examples until I can complete similar tasks more independently.
 
 ---
 
